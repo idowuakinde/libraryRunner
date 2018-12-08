@@ -1,0 +1,14 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/libraryRunner.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/libraryRunner.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/libraryRunner.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/libraryRunner.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/libraryRunner.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/stringModifierClassLibrary.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/bin/Debug/netcoreapp2.1/stringModifierClassLibrary.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.csproj.CopyComplete
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryRunner/obj/Debug/netcoreapp2.1/libraryRunner.pdb
